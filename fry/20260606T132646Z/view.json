@@ -1,0 +1,1 @@
+{"vin": {"scale": 17.886, "offset": 0.0, "coupling": "AC"}, "iout": {"scale": 0.722, "offset": 0.0, "coupling": "AC"}, "ntc": {"scale": 1.0, "offset": -2048.0, "coupling": "DC"}, "vout": {"scale": 1.0, "offset": -2048.0, "coupling": "DC"}, "ucTemp": {"scale": 1.0, "offset": -2048.0, "coupling": "DC"}, "vout_filt": {"scale": 1.0, "offset": -2048.0, "coupling": "DC"}}
