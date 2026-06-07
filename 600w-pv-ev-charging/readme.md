@@ -1,5 +1,7 @@
 # 600 W PV, EV-charging load
 
+![capture](img.webp)
+
 A ~600 W PV array feeding a battery while an **EV charger** is the dominant load — a very dynamic,
 broadband current draw. ~442 s, raw ADC counts, **per-channel rates in the filenames**
 (`iout/vout` 452 Hz, `vin` 392 Hz, `ntc` 196 Hz). `vout_filt` is the device's own filtered Vout.

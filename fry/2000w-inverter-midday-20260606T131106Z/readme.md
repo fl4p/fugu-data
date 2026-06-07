@@ -1,5 +1,7 @@
 * tracking is disturbed by wrong notch filter freq
 
+![capture](img.webp)
+
 ## de-tuned INA226 on fry
 
 fry's Vout/Iout come from an INA226 that converts *faster* than its nominal conversion time implies:

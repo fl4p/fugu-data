@@ -1,5 +1,7 @@
 # cheap-China-inverter 1 kW load
 
+![capture](img.webp)
+
 A nasty cheap inverter on the DC bus that draws **dense, narrow current pulses** instead of a clean
 sine. Raw ADC counts, ~4000 samples/channel (`vin/vout/iout/ntc/ucTemp.csv`); `img.webp` is the
 scope view. `filt.py` (sibling dir) prototyped a median de-spiker against `iout.csv`.
